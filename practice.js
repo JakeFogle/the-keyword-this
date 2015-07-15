@@ -95,8 +95,8 @@ var getUsername = function(){
 
 setTimeout(getUsername.bind(user), 5000);
 
-//Above you're given an object, a function, and a setTimeout invocation. After 5 seconds, what will the getUsername 
-//function return?
+//Above you're given an object, a function, and a setTimeout invocation. After 5 seconds, what will 
+//the getUsername function return?
 
   //UNDEFINED -- cause it's not tied to the object
 
